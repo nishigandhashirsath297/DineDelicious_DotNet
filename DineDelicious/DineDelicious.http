@@ -1,0 +1,6 @@
+@DineDelicious_HostAddress = http://localhost:5250
+
+GET {{DineDelicious_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
